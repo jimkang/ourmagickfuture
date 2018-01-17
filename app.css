@@ -9,7 +9,6 @@ body {
   font-size: 36px;
   color: white;
   background-color: #252528;
-  background-image: url(our-magick-future-header-The_Deluge_engraving_by_WIlliam_Miller_after_J_Martin-1280.jpeg);
   margin: 0;
   height: 100%;
   display: flex;
@@ -37,14 +36,13 @@ li {
 }
 
 a:link {
-  color: black;
+  color: #252528;
   text-decoration: none;
 }
 
 a:visited {
-  color: #252528;
+  color: #282828;
 }
-
 
 .media {
   display: flex;
@@ -56,15 +54,13 @@ a:visited {
 li.pane {
   margin-bottom: 2em;
   background-color: hsl(35, 10%, 97%);
-  color: hsla(184, 41%, 10%, 0.8);
+  color: #252528;
   padding-left: 1.2em;
   padding-right: 1.2em;
   padding-top: 1.2em;
   padding-bottom: 1.2em;
   margin-bottom: 2em;
   text-align: center;
-  border: 1px solid #ddd;
-  box-shadow: 2px 2px #e8e8e8;  
 }
 
 .entry-meta {
