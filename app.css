@@ -8,7 +8,7 @@ body {
   font-family: 'Vesper Libre', Georgia, serif;
   font-size: 36px;
   color: white;
-  background-color: #252528;
+  background-color: #202025;
   margin: 0;
   height: 100%;
   display: flex;
@@ -36,12 +36,12 @@ li {
 }
 
 a:link {
-  color: #252528;
+  color: white;
   text-decoration: none;
 }
 
 a:visited {
-  color: #282828;
+  color: #e8e8e8;
 }
 
 .media {
@@ -52,14 +52,10 @@ a:visited {
 }
 
 li.pane {
-  margin-bottom: 2em;
-  background-color: hsl(35, 10%, 97%);
-  color: #252528;
   padding-left: 1.2em;
   padding-right: 1.2em;
   padding-top: 1.2em;
   padding-bottom: 1.2em;
-  margin-bottom: 2em;
   text-align: center;
 }
 
